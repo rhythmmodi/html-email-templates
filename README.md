@@ -39,7 +39,7 @@ Thanks to a clean code this app have; you can work with it on any ESP (Email Ser
 
 **License**
 
-If you find the tool useful, please share it with your friends or mention us on your website. Use the templates for personal or commercial projects, but don't sell them!
+If you find the tool useful then it will be my pleasure than you likes it and please share it with your friends or mention us on your website. Use the templates for personal or commercial projects, but don't sell them!
 
 **Changelog**
 
